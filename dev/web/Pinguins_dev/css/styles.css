@@ -1,0 +1,61 @@
+body {
+    background-color: #323339;
+}
+
+nav.menu ul.menu li {
+    display: inline-block;
+    padding: 10px;
+    color: #e7e3ef;
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 28%;
+}
+
+nav.menu ul.menu li.button {
+    list-style-type: none;
+}
+
+p {
+    color: white;
+}
+
+h1.TitleIndex {
+    color: #f5c744;
+    padding-left: 40%;
+    font-size: 60px;
+
+}
+
+h1.TitleDiscord {
+    color: #f5c744;
+    padding-left: 30%;
+    font-size: 60px;
+
+}
+
+
+a.resaux {
+    color: #3910e0;
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 44%;
+}
+
+a.ResauxDiscord {
+    color: #3910e0;
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 46%;
+}
+
+p.presentation {
+    color: #7a41e3;
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 26%;
+}
+
+img {
+    width: 100px;
+    padding-left: 45%;
+}
